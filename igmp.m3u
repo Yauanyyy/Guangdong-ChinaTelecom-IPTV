@@ -419,9 +419,6 @@ http://192.168.100.1:4022/rtp/239.77.0.96:5146
 #EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="http://192.168.100.1:8080/logo/兵团卫视.png" group-title="卫视",兵团卫视
 http://192.168.100.1:4022/rtp/239.77.0.48:5146
 
-#EXTINF:-1 tvg-id="茶" tvg-name="茶" tvg-logo="http://192.168.100.1:8080/logo/茶.png" group-title="付费",茶
-http://192.168.100.1:4022/rtp/239.77.0.15:5146
-
 #EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="http://192.168.100.1:8080/logo/快乐垂钓.png" group-title="付费",快乐垂钓
 http://192.168.100.1:4022/rtp/239.77.0.145:5146
 
