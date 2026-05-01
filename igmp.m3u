@@ -41,9 +41,6 @@ http://192.168.100.1:4022/rtp/239.77.0.22:5146
 #EXTINF:-1 tvg-id="岭南戏曲" tvg-name="岭南戏曲" tvg-logo="http://192.168.100.1:8080/logo/岭南戏曲.png" group-title="广东",岭南戏曲
 http://192.168.100.1:4022/rtp/239.77.0.122:5146
 
-#EXTINF:-1 tvg-id="现代教育" tvg-name="现代教育" tvg-logo="http://192.168.100.1:8080/logo/现代教育.png" group-title="广东",现代教育
-http://192.168.100.1:4022/rtp/239.77.0.213:5146
-
 #EXTINF:-1 tvg-id="广州综合" tvg-name="广州综合" tvg-logo="http://192.168.100.1:8080/logo/广州综合.png" group-title="广东",广州综合
 http://192.168.100.1:4022/rtp/239.253.43.71:5146
 
