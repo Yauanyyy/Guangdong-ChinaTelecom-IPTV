@@ -410,9 +410,6 @@ http://192.168.100.1:4022/rtp/239.253.43.99:5146
 #EXTINF:-1 tvg-id="深圳卫视4K" tvg-name="深圳卫视4K" tvg-logo="http://192.168.100.1:8080/logo/深圳卫视4K.png" group-title="4K超高清",深圳卫视4K
 rtsp://183.59.168.166/PLTV/88888905/224/3221230273/805916568.smil?accountinfo=~~V2.0~rEiaiT_B_n_zI7NV3LXWiA~OYYauFvXlZ8CV6O6gTx8a130b_RuZBnTD7qiYHJ5R-ur590c6tp6RNTZp03TLXRLU_2vaiJeIxAE6pMQDok3KjQTPrPSNczBjchHexguCRo%3D%3D%3A20230101235235%2CEND&GuardEncType=2
 
-#EXTINF:-1 tvg-id="CCTV-4K" tvg-name="CCTV-4K" tvg-logo="http://192.168.100.1:8080/logo/CCTV-4K.png" group-title="4K超高清",CCTV-4K
-rtsp://183.59.168.166/PLTV/88888905/224/3221230109/477174391.smil?accountinfo=~~V2.0~H6OQluW7P2XpHwl5hISCNg~OYYauFvXlZ8CV6O6gTx8a130b_RuZBnTD7qiYHJ5R-ur590c6tp6RNTZp03TLXRLU_2vaiJeIxAE6pMQDok3KjQTPrPSNczBjchHexguCRo%3D%3D%3A20230101235235%2CEND&GuardEncType=2
-
 #EXTINF:-1 tvg-id="北京卫视4K" tvg-name="北京卫视4K" tvg-logo="http://192.168.100.1:8080/logo/北京卫视4K.png" group-title="4K超高清",北京卫视4K
 rtsp://183.59.168.166/PLTV/88888905/224/3221230293/780169344.smil?accountinfo=~~V2.0~pBGA8EWG-QONklWo4xX7iQ~OYYauFvXlZ8CV6O6gTx8a130b_RuZBnTD7qiYHJ5R-ur590c6tp6RNTZp03TLXRLU_2vaiJeIxAE6pMQDok3KjQTPrPSNczBjchHexguCRo%3D%3D%3A20230101235235%2CEND&GuardEncType=2
 
